@@ -13,6 +13,7 @@
 * CSE 6242 - Data and Visual Analytics
 
 ### Statistics Electives (6 Units Required)
+* ISYE 6740 - [Computational Data Analytics](https://github.com/nickcica/ISYE6740) - In Progress
 
 ### Operations Research Electives (3 Units Required)
 
