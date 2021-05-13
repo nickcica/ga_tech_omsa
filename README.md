@@ -12,8 +12,8 @@
 * MGT 6203 - [Data Analytics in Business](https://github.com/nickcica/MGT6203)
 * CSE 6242 - Data and Visual Analytics
 
-### Statistics Electives (6 Units Required)
-* ISYE 6740 - [Computational Data Analytics](https://github.com/nickcica/ISYE6740) - In Progress
+### Statistics Electives (6 Units Required - 3 Completed)
+* ISYE 6740 - [Computational Data Analytics](https://github.com/nickcica/ISYE6740)
 
 ### Operations Research Electives (3 Units Required)
 
