@@ -1,6 +1,6 @@
 # Georgia Institute of Technology - Master of Analytics (MS)
 36 Unit Requirement<br>
-12/36 units completed as of Fall 2020<br>
+15/36 units completed as of Spring 2021<br>
 <br>
 
 ### Core Requirements (9 Units Required - Complete) 
